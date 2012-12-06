@@ -4,7 +4,7 @@ import (
 	"container/list"
 	"database/sql"
 	"errors"
-	"ijinshan.com/container/set"
+	"github.com/Terry-Mao/dbpool_for_golang/container/set"
 	"log"
 	"os"
 	"sync"
